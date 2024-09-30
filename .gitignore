@@ -1,0 +1,6 @@
+# IDE folders:
+.vs
+.vscode
+
+# Cache files or folders
+*.autosave
