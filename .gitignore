@@ -5,3 +5,4 @@
 # Cache files or folders
 *.autosave
 *.properties
+venv
